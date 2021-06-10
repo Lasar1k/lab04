@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Rogopl/lab04.svg?branch=master)](https://travis-ci.com/Rogopl/lab04)
 ## Laboratory work 4
 # Домашнее задание
 Данная лабораторная работа посвещена изучению систем автоматизации сборки проекта на примере **CMake**
